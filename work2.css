@@ -1,0 +1,81 @@
+.nav{
+   width:100%;
+    height:5px;
+    line-height:75px;
+    padding:0px 100px;
+    position:fixed;
+    z-index:1;
+
+}
+.h1{
+     color: black;
+     font-size: 30px;
+     font-weight: 500;
+     font-style: italic;
+     
+}
+  
+.text{
+    text-align:justify;
+    font-size: 20px;
+    
+}
+.box1{
+    width: 300px;
+    height: 340px;
+    border: 2px solid black;
+    box-sizing: border-box;
+    background-color:LightGrey;
+    margin-right:40px;
+    margin-left:20px;
+    border-radius:40px;
+    float:left;
+}
+.box2{
+    border: 2px solid black;
+    margin:80px;
+    text-align:center;
+    height:210px;
+   
+    padding:50px;
+    background-color:silver;
+    border-radius:50px;
+    
+}
+.body{
+    background-image:url(https://cdn02.plentymarkets.com/2brofzsczyt8/item/images/63200236/middle/Tapete-Vlies-Ornament-Glitzer-creme-weiss-Glanz-6762-10-63200236.jpg)
+}
+.ft{
+    margin:20px;
+    padding:20px;
+    padding-left:380px;
+}
+   
+.box3{
+    margin-left:40px;
+    padding:10px;
+}
+  
+label.logo{
+    border: 2px solid maroon;
+    border-radius:800px;
+    color:FireBrick;
+    font-size:35px;
+    line-height:50px;
+    padding:0 15px;
+    font-weight:bold;
+    background-color:white;
+}
+nav ul{
+ float:right;
+}
+nav ul li{
+   display:inline-block;
+   text-decoration:none;
+}
+nav ul li a{
+   font-size:18px;
+   text-transform:uppercase;
+   padding:0px 32px;
+}
+
